@@ -1,7 +1,7 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
 
-const mnemonic = 'under holiday describe stove pull clinic file control success bright gesture search';
-const provider_url = 'https://rinkeby.infura.io/v3/e50552b95a944fd0a1bfbf22bc3031cf';
+const mnemonic = '';
+const provider_url = '';
 
 module.exports = {
   networks: {
